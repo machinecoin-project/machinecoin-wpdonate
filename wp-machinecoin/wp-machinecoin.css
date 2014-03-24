@@ -1,0 +1,15 @@
+.wpmc_box{
+background: #eee;
+padding: 10px;
+}
+
+.wpmc_small a{
+font-size: 10px;
+cursor: help;
+font-weight: normal;
+border-bottom: 1px dashed #333;
+}
+
+.wpmc_small{
+float: right;
+}
