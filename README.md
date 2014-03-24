@@ -14,7 +14,7 @@ License: GPL 3.0
 
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Plugin URI: http://idienstler.de/plugins/wp-machinecoin/
+Plugin URI: https://github.com/Gitju/wp-machinecoin
 
 This plugin allows you to add your Machinecoin donation address to the bottom of your blog posts - automatically!
 
