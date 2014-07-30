@@ -6,7 +6,7 @@ Tags: machinecoin, cryptocurrency, bitcoin, litecoin
 
 Requires at least: 3.0
 
-Tested up to: 3.8.1
+Tested up to: 3.9.1
 
 Stable tag: trunk
 
@@ -14,7 +14,7 @@ License: GPL 3.0
 
 License URI: http://www.gnu.org/licenses/gpl.html
 
-Plugin URI: https://github.com/Gitju/wp-machinecoin
+Plugin URI: https://github.com/Gitju/WP-Machinecoin
 
 This plugin allows you to add your Machinecoin donation address to the bottom of your blog posts - automatically!
 
