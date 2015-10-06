@@ -20,7 +20,7 @@ function WPMachineCoinContent($content) {
 		$content .= 'Donate Machinecoins: <strong>';
 		$content .= get_option('wpmc_wallet_address');
 		$content .= '</strong> ';
-		$content .= '<span class="wpmc_small"><a href="http://machinecoin.org/" target="_blank">What is that?</a></span>';
+		$content .= '<span class="wpmc_small"><a href="http://gitju.github.io/Machinecoin.org/" target="_blank">What is that?</a></span>';
 		$content .= '</div>';
 		return $content;
 	} else {
